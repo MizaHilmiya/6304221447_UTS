@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Rumus Balok</string>
+    <string name="calculate_block">Hitung Balok</string>
+    <string name="input_length">Masukkan Panjang (cm)</string>
+    <string name="input_width">Masukkan Lebar (cm)</string>
+    <string name="input_height">Masukkan Tinggi (cm)</string>
+    <string name="result_note">Hasil Perhitungan</string>
+</resources>
